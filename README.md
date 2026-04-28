@@ -1,7 +1,7 @@
 # OptiBox
 
 OptiBox solves the **storage + delivery flow problem** in a multi-shuttle warehouse.
-We built a greedy routing and dispatch system that receives boxes, stores them intelligently, and ships them through active pallet destinations, with a full visual playback UI.
+We built a greedy routing and dispatch system that receives boxes, stores them intelligently, and ships them through active pallet destinations, with a full visual playback UI. Read the **Algorithm.md** file for details
 
 ## Inspiration
 
